@@ -6,4 +6,4 @@ beautifulsoup4
 feedparser
 uvicorn
 fastapi
-execution
+
